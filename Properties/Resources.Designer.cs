@@ -61,7 +61,7 @@ namespace WpfApp5.Properties {
         }
         
         /// <summary>
-        ///   {0:yyyy年MM月dd日} に類似しているローカライズされた文字列を検索します。
+        ///   {0:yyyy年MM月dd日 HH:mm:ss} に類似しているローカライズされた文字列を検索します。
         /// </summary>
         public static string String1 {
             get {

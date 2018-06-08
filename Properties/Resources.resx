@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="String1" xml:space="preserve">
-    <value>{0:yyyy年MM月dd日}</value>
+    <value>{0:yyyy年MM月dd日 HH:mm:ss}</value>
   </data>
   <data name="String2" xml:space="preserve">
     <value>{}{0:yyyy年MM月dd日}</value>
